@@ -149,7 +149,10 @@ activemq-data/
 
 # Environments
 .env
+<<<<<<< HEAD
 langchain-coding/.env
+=======
+>>>>>>> c2058cc25d4139d139f4532bd2afe0977055cedd
 .envrc
 .venv
 env/
